@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = iovayurt@gmail.com
+	name = Tahir Ovayurt
